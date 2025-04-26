@@ -22,6 +22,11 @@ Welcome to my GitHub profile! I'm a passionate developer, technology enthusiast,
 
 [![CompTIA A+ ce Certificate](https://storage.lucasserver.cloud/s/LjQZziQReRDg7tK/download/CompTIA%20A+%20ce%20certificate-1.png)](https://storage.lucasserver.cloud/s/TQeKHMGaYqg45yP/download/CompTIA%20A+%20ce%20certificate.pdf)
 
+### CompTIA Security+ Certification
+
+[![CompTIA Security+ ce Certificate](https://storage.lucasserver.cloud/s/qDAZWCoKNDz8kRg/download/CompTIA%20Security+%20ce%20certificate-1.png)
+
+
 ## 🚀 Projects
 
 ### CTE Nexus
