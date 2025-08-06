@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I'm a passionate developer, technology enthusiast,
 - 💻 **Experience:** 7 years of programming experience, proficient in Java, Python, and Lua.
 - 🎾 **Hobbies:** Playing tennis, Powerlifting, and playing Baseball.
 - 🏆 **Achievements:** State champion in Programming for both SkillsUSA and FBLA, and a certified CompTIA A+ professional.
-- 📘 **AP Scores:** 5s on AP Human Geography, **AP Computer Science Principles**, and **AP Computer Science A**; 4 on **AP World History**.
 
 ## 🌐 Connect with Me
 
