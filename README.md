@@ -42,4 +42,4 @@ Welcome to my GitHub profile! I'm a passionate developer, technology enthusiast,
 ### BudgetEase Public
 - **Description:** BudgetEase is a mobile app created for the 2025 FBLA competition. It helps students manage personal finances by tracking account balances, income, and expenses. Features include a modern UI and dynamic weekly/monthly spending.
 - **Technologies Used:** Kotlin (Android)
-- **Repository:** https://github.com/llucasandersen/BudgetEase
+- **Repository:** [BudgetEase](https://github.com/llucasandersen/BudgetEase)
